@@ -1,10 +1,12 @@
-# Weather App
+# Weather Dashboard
 
 Simple weather app using JavaScript and OpenWeather API.
 
 ## Features
-- Search city
-- Shows temperature and description
+- Search city weather
+- Shows temperature, wind, description
+- Error handling + loading state
 
 ## Tech
 - HTML, CSS, JavaScript
+- OpenWeather API
