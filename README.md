@@ -10,3 +10,6 @@ Simple weather app using JavaScript and OpenWeather API.
 ## Tech
 - HTML, CSS, JavaScript
 - OpenWeather API
+
+## Live Demo
+https://gilded-naiad-236084.netlify.app
