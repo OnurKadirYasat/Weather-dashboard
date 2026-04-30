@@ -12,4 +12,4 @@ Simple weather app using JavaScript and OpenWeather API.
 - OpenWeather API
 
 ## Live Demo
-https://gilded-naiad-236084.netlify.app
+https://weather-dashboard-onur.netlify.app
